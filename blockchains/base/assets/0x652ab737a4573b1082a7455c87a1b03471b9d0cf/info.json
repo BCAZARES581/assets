@@ -1,0 +1,18 @@
+{
+  "name": "Pope Trump",
+  "symbol": "POPE",
+  "type": "base",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x652ab737a4573b1082a7455c87a1b03471b9d0cf",
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/pope_trump"
+    },
+    {
+      "name": "website",
+      "url": "https://popecoin.fun"
+    }
+  ]
+}
